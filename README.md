@@ -1,5 +1,5 @@
 ## Giới thiệu
-Web siêu thị điện máy.
+Website bán nước hoa
 
 ## Chức năng
 - Sắp xếp sản phẩm theo thể loại.
