@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource name="jdbc/UsersDB" auth="Container" type="javax.sql.DataSource"
+		maxActive="100" maxIdle="30" maxWait="10000" driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://127.0.0.1:3306/perfume_world"
+		username="root" password="baotoan1142"
+		connectionProperties="useUnicode=yes;characterEncoding=utf8;"
+		>
+	</Resource>
+</Context>
+<!-- 		username="adminXB11rE3" password="uKSAP-EUmQ49" -->
+<!-- 	127.12.66.130 -->

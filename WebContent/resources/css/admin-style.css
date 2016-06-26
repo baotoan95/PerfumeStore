@@ -1,0 +1,53 @@
+/* Menu right type */
+.menu-right {
+	margin: 10px 10px;
+	overflow: hidden;
+}
+
+.menu-right ul {
+	float: right;
+}
+
+.menu-right ul li {
+	display: inline-block;
+	padding: 3px 15px;
+	margin: 5px;
+	border: 1px solid #cecece;
+	background: #ebebeb;
+	cursor: pointer;
+	border-radius: 4px;
+}
+
+.menu-right ul li:hover, .menu-right ul li.active {
+	background: #FA51AC;
+}
+
+.menu-right ul li a {
+	color: black;
+}
+
+.img-small {
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.table tr td {
+	text-align: center;
+}
+
+.table tr td img {
+	margin: 0px auto;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+	border: 1px solid #CB1078;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.table thead tr:first-child {
+	background: #FAD9EC;
+	border: 1px solid #CB1078;
+	color: black;
+}
+
