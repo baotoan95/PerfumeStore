@@ -17,6 +17,12 @@ Website bán nước hoa
 - Bước 1: Import perfume_world.sql
 - Bước 2: Sửa thông tin truy cập vào csdl trong WebContent > META-INF > content.xml
 - Bước 3: Config tomcat user trong folder Server > tomcat-users.xml. Thêm nội dung sau vào trong tag `<tomcat-users>`
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
     	```
 	<role rolename="manager" />
 	<role rolename="tomcat" />
