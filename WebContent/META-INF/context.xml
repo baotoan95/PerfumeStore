@@ -3,7 +3,7 @@
 	<Resource name="jdbc/UsersDB" auth="Container" type="javax.sql.DataSource"
 		maxActive="100" maxIdle="30" maxWait="10000" driverClassName="com.mysql.jdbc.Driver"
 		url="jdbc:mysql://127.0.0.1:3306/perfume_world"
-		username="root" password="baotoan1142"
+		username="root" password="root"
 		connectionProperties="useUnicode=yes;characterEncoding=utf8;"
 		>
 	</Resource>
